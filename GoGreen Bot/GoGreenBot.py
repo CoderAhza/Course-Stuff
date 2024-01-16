@@ -78,4 +78,4 @@ async def udara(ctx):
     # else:
     #     await message.channel.send(message.content)
 
-bot.run("MTEzNzYyNDQ2MTY0MjgyNTgzMA.G7D3S3.KqAzXMH-lqmSTt3Ocp0BNWzG6saJA90PTZ3-Ys")
+bot.run()
