@@ -47,4 +47,4 @@ async def divided(ctx, left: int, right: int):
     await ctx.send(left / right)
 
 
-bot.run("MTEzODAxMjQwMzgxNzI3MTMzNw.GU778g.UZH8ULlG7a50VqdKShM6HpypNEyP4I0SNSP-es")
+bot.run()
