@@ -88,4 +88,4 @@ async def dog(ctx):
     # else:
     #     await message.channel.send(message.content)
 
-bot.run("MTEyNDMwODU3MjczODY5OTI3Ng.GWao4H.rllm4-izQCreQ797JXpzp0U-xanj98nD12Alvw")
+bot.run()
